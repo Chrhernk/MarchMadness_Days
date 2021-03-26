@@ -11,7 +11,6 @@ void MarchDay6();
 void MarchDay7();
 void MarchDay8();
 void MarchDay9();
-void BarbieDay();
 void MarchDay10();
 void MarchDay11();
 void MarchDay12();
