@@ -47,9 +47,29 @@ void NationalCerealDay();
 void NationalCrownRoastofPorkDay();
 
 void MarchDay8();
+
+void BeNastyDay();
+void InternationalWorkingWomensDay();
+void NationalProofreadingDay();
+
 void MarchDay9();
+
+void BarbieDay();
+void GetOverItDay();
+void PanicDay();
+
 void MarchDay10();
+
+void InternationalDayofAwesome();
+void InternationalFindaPayPhoneDay();
+void MiddleNamePrideDay();
+
 void MarchDay11();
+
+void JohnnyAppleseedDay();
+void PopcornLoversDay();
+void WorshipofToolsDay();
+
 void MarchDay12();
 void MarchDay13();
 void MarchDay14();
