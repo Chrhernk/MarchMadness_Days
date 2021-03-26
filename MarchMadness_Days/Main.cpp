@@ -107,6 +107,42 @@ int main()
 
 void MarchDay1()
 {
+	int Choice;
+	std::cout << "You wake up on the first day of march, Groaning as you look over to the calander your sister gave you, It told you all of the holidays people" << std::endl;
+	std::cout << "put on the days of the month, and seeing all of them, you decide to choose one to celebrate today.\n" << std::endl;
+
+	std::cout << "1.National Pig Day " << std::endl;
+	std::cout << "2.Peace Corps Day " << std::endl;
+	std::cout << "3.Peanut Butter Lovers' Day " << std::endl;
+	std::cout << "4.Plan a Solo Vacation Day " << std::endl;
+	std::cout << "5.World Compliment Day \n" << std::endl;
+
+	std::cout << "Which would you like to choose?" << std::endl;
+	std::cout << ": Choose 1-5 :";
+	std::cin >> Choice;
+
+	switch(Choice) {
+	case 1 :
+		std::cout << "" << std::endl;
+		system("pause");
+		MarchDay1();
+	case 2 :
+		std::cout << "" << std::endl;
+		system("pause");
+		MarchDay1();
+	case 3 :
+		std::cout << "" << std::endl;
+		system("pause");
+		MarchDay1();
+	case 4 :
+		std::cout << "" << std::endl;
+		system("pause");
+		MarchDay1();
+	case 5 :
+		std::cout << "You go through the day, Complimenting everybody you run into, you make them smile!" << std::endl;
+		system("pause");
+		MarchDay2();
+	}
 
 
 	system("pause");
@@ -321,4 +357,6 @@ void MarchDay31()
 
 
 	system("pause");
+	system("exit");
+
 }
