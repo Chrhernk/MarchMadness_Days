@@ -68,9 +68,9 @@ int main()
 
 	system("pause");
 
-	void MarchDay1();
+	MarchDay1();
 
-
+	return 0;
 }
 
 void MarchDay1()
@@ -78,210 +78,210 @@ void MarchDay1()
 
 
 	system("pause");
-	void MarchDay2();
+	MarchDay2();
 }
 void MarchDay2()
 {
 
 
 	system("pause");
-	void MarchDay3();
+	MarchDay3();
 }
 void MarchDay3()
 {
 
 
 	system("pause");
-	void MarchDay4();
+	MarchDay4();
 }
 void MarchDay4()
 {
 
 
 	system("pause");
-	void MarchDay5();
+	MarchDay5();
 }
 void MarchDay5()
 {
 
 
 	system("pause");
-	void MarchDay6();
+	MarchDay6();
 }
 void MarchDay6()
 {
 
 
 	system("pause");
-	void MarchDay7();
+	MarchDay7();
 }
 void MarchDay7()
 {
 
 
 	system("pause");
-	void MarchDay8();
+	MarchDay8();
 }
 void MarchDay8()
 {
 
 
 	system("pause");
-	void MarchDay9();
+	MarchDay9();
 }
 void MarchDay9()
 {
 
 
 	system("pause");
-	void MarchDay10();
+	MarchDay10();
 }
 void MarchDay10()
 {
 
 
 	system("pause");
-	void MarchDay11();
+	MarchDay11();
 }
 void MarchDay11()
 {
 
 
 	system("pause");
-	void MarchDay12();
+	MarchDay12();
 }
 void MarchDay12()
 {
 
 
 	system("pause");
-	void MarchDay13();
+	MarchDay13();
 }
 void MarchDay13()
 {
 
 
 	system("pause");
-	void MarchDay14();
+	MarchDay14();
 }
 void MarchDay14()
 {
 
 
 	system("pause");
-	void MarchDay15();
+	MarchDay15();
 }
 void MarchDay15()
 {
 
 
 	system("pause");
-	void MarchDay16();
+	MarchDay16();
 }
 void MarchDay16()
 {
 
 
 	system("pause");
-	void MarchDay17();
+	MarchDay17();
 }
 void MarchDay17()
 {
 
 
 	system("pause");
-	void MarchDay18();
+	MarchDay18();
 }
 void MarchDay18() 
 {
 
 
 	system("pause");
-	void MarchDay19();
+	MarchDay19();
 }
 void MarchDay19()
 {
 
 
 	system("pause");
-	void MarchDay20();
+	MarchDay20();
 }
 void MarchDay20()
 {
 
 
 	system("pause");
-	void MarchDay21();
+	MarchDay21();
 }
 void MarchDay21()
 {
 
 
 	system("pause");
-	void MarchDay22();
+	MarchDay22();
 }
 void MarchDay22()
 {
 
 
 	system("pause");
-	void MarchDay23();
+	MarchDay23();
 }
 void MarchDay23()
 {
 
 
 	system("pause");
-	void MarchDay24();
+	MarchDay24();
 }
 void MarchDay24()
 {
 
 
 	system("pause");
-	void MarchDay25();
+	MarchDay25();
 }
 void MarchDay25()
 {
 
 
 	system("pause");
-	void MarchDay26();
+	MarchDay26();
 }
 void MarchDay26()
 {
 
 
 	system("pause");
-	void MarchDay27();
+	MarchDay27();
 }
 void MarchDay27()
 {
 
 
 	system("pause");
-	void MarchDay28();
+	MarchDay28();
 }
 void MarchDay28()
 {
 
 
 	system("pause");
-	void MarchDay29();
+	MarchDay29();
 }
 void MarchDay29()
 {
 
 
 	system("pause");
-	void MarchDay30();
+	MarchDay30();
 }
 void MarchDay30()
 {
 
 
 	system("pause");
-	void MarchDay31();
+	MarchDay31();
 }
 void MarchDay31()
 {
