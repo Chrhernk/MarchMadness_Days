@@ -3,152 +3,67 @@
 #include<cmath>
 
 void MarchDay1();
-
-void NationalPigDay();
-void PeaceCorpsDay();
-void PeanutButterLoversDay();
-void PlanASoloVacationDay();
 void WorldComplimentDay();
-
 void MarchDay2();
-
 void OldStuffDay();
-
 void MarchDay3();
-
-void CaregiverAppreciationDay();
-void IWantYouToBeHappyDay();
-void IfPetsHadThumbsDay();
-void NationalAnthemDay();
 void PeachBlossomDay();
-
 void MarchDay4();
-
 void HolyExperimentDay();
-void HugAGIDay();
-
 void MarchDay5();
-
 void EmployeeAppreciationDay();
-void MultiplePersonalityDay();
-void NationalSalespersonDay();
-void WorldDayOfPrayer();
-
 void MarchDay6();
-
-void DentistDay();
-void NationalFrozenFoodDay();
 void NationalOreoCookieDay();
-
 void MarchDay7();
-
 void NamesakeDay();
-void NationalCerealDay();
-void NationalCrownRoastofPorkDay();
-
 void MarchDay8();
-
-void BeNastyDay();
-void InternationalWorkingWomensDay();
 void NationalProofreadingDay();
-
 void MarchDay9();
-
 void BarbieDay();
-void GetOverItDay();
-void PanicDay();
-
 void MarchDay10();
-
-void InternationalDayofAwesome();
 void InternationalFindaPayPhoneDay();
-void MiddleNamePrideDay();
-
 void MarchDay11();
-
-void JohnnyAppleseedDay();
 void PopcornLoversDay();
-void WorshipofToolsDay();
-
 void MarchDay12();
-
-
-
+void PlantAFlourDay();
 void MarchDay13();
-
-
-
+void JewlDay();
 void MarchDay14();
-
-
-
+void NationalPiDay();
 void MarchDay15();
-
-
-
+void IdesofMarch();
 void MarchDay16();
-
-
-
+void FreedomofInformationDay();
 void MarchDay17();
-
-
-
+void SaintPatricksDay();
 void MarchDay18();
-
-
-
+void SuprimeSacrificeDay();
 void MarchDay19();
-
-
-
+void LetsLaughDay();
 void MarchDay20();
-
-
-
+void InternationalDayofHappiness();
 void MarchDay21();
-
-
-
+void WorldPoetryDay();
 void MarchDay22();
-
-
-
+void NationalGoofOffDay();
 void MarchDay23();
-
-
-
+void WorldAgricultureDay();
 void MarchDay24();
-
-
-
+void NationalCheesesteakDay();
 void MarchDay25();
-
-
-
+void WaffleDay();
 void MarchDay26();
-
-
-
+void LiveLongandProsperDay();
 void MarchDay27();
-
-
-
+void NationalJoeDay();
 void MarchDay28();
-
-
-
+void WeedAppreciationDay();
 void MarchDay29();
-
-
-
+void SmokeandMirrorsDay();
 void MarchDay30();
-
-
-
+void TakeaWalkintheParkDay();
 void MarchDay31();
-
-
+void WorldBackupDay();
 
 
 
