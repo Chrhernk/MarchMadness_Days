@@ -3,12 +3,49 @@
 #include<cmath>
 
 void MarchDay1();
+
+void NationalPigDay();
+void PeaceCorpsDay();
+void PeanutButterLoversDay();
+void PlanASoloVacationDay();
+void WorldComplimentDay();
+
 void MarchDay2();
+
+void OldStuffDay();
+
 void MarchDay3();
+
+void CaregiverAppreciationDay();
+void IWantYouToBeHappyDay();
+void IfPetsHadThumbsDay();
+void NationalAnthemDay();
+void PeachBlossomDay();
+
 void MarchDay4();
+
+void HolyExperimentDay();
+void HugAGIDay();
+
 void MarchDay5();
+
+void EmployeeAppreciationDay();
+void MultiplePersonalityDay();
+void NationalSalespersonDay();
+void WorldDayOfPrayer();
+
 void MarchDay6();
+
+void DentistDay();
+void NationalFrozenFoodDay();
+void NationalOreoCookieDay();
+
 void MarchDay7();
+
+void NamesakeDay();
+void NationalCerealDay();
+void NationalCrownRoastofPorkDay();
+
 void MarchDay8();
 void MarchDay9();
 void MarchDay10();
