@@ -286,14 +286,6 @@ void MarchDay7()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "You go through the day, Complimenting everybody you run into, you make them smile!" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -328,14 +320,6 @@ void MarchDay8()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -370,14 +354,6 @@ void MarchDay9()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -412,19 +388,12 @@ void MarchDay10()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
 	MarchDay11();
 }
+
 void MarchDay11()
 {
 	int Choice;
@@ -454,18 +423,10 @@ void MarchDay11()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
-	}
 
-	system("pause");
-	MarchDay12();
+		system("pause");
+		MarchDay12();
+	}
 }
 void MarchDay12()
 {
@@ -492,18 +453,6 @@ void MarchDay12()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 3:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -580,14 +529,6 @@ void MarchDay14()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -626,10 +567,6 @@ void MarchDay15()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -668,10 +605,6 @@ void MarchDay16()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -706,14 +639,6 @@ void MarchDay17()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 	system("pause");
 	MarchDay18();
@@ -751,10 +676,6 @@ void MarchDay18()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -785,18 +706,6 @@ void MarchDay19()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 3:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -873,14 +782,6 @@ void MarchDay21()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -911,18 +812,6 @@ void MarchDay22()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 3:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -995,18 +884,6 @@ void MarchDay24()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 3:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -1041,14 +918,6 @@ void MarchDay25()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -1083,14 +952,6 @@ void MarchDay26()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -1117,22 +978,6 @@ void MarchDay27()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 2:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 3:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -1163,18 +1008,6 @@ void MarchDay28()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 3:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -1205,18 +1038,6 @@ void MarchDay29()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 3:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 4:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -1255,10 +1076,6 @@ void MarchDay30()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
@@ -1297,10 +1114,6 @@ void MarchDay31()
 		std::cout << "" << std::endl;
 		system("pause");
 		MarchDay1();
-	case 5:
-		std::cout << "" << std::endl;
-		system("pause");
-		MarchDay2();
 	}
 
 	system("pause");
