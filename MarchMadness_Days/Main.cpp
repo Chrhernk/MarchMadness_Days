@@ -864,7 +864,7 @@ void MarchDay26()
 	case 2:
 		std::cout << "You decide to name a holiday after your mother! A holiday all about family, and baking!" << std::endl;
 		system("pause");
-		MarchDay26();
+		MarchDay26();  
 	case 3:
 		std::cout << "You put spinach on your pizza! It was a good addition to the day" << std::endl;
 		system("pause");
