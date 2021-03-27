@@ -718,30 +718,28 @@ void MarchDay20()
 void MarchDay21()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "The Twenty-first of March" << std::endl;
+	std::cout << "\nMarching even onward!" << std::endl;
 
 	std::cout << "1.Credit Card Reduction Day " << std::endl;
 	std::cout << "2.Fragrance Day " << std::endl;
 	std::cout << "3.World Poetry Day " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-3 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "Your credit company calls! They dropped your monthly payments by a few dollars!" << std::endl;
 		system("pause");
 		MarchDay21();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You decide to try out a new cologne" << std::endl;
 		system("pause");
 		MarchDay21();
 	case 3:
-		std::cout << "" << std::endl;
+		std::cout << "You write a poem, about a long- lost Love" << std::endl;
 		system("pause");
 		MarchDay22();
 	}
@@ -749,26 +747,24 @@ void MarchDay21()
 void MarchDay22()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "The twenty-second, Nearly there" << std::endl;
+	std::cout << "\n What is the Holiday of choice today?" << std::endl;
 
 	std::cout << "1.As Young As You  Feel Day " << std::endl;
 	std::cout << "2.National Goof Off Day " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
+
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-2 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You decide to go to the beach and make a sand castle! Nobody is gonna stop you!" << std::endl;
 		system("pause");
 		MarchDay22();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You goof off today, You deserve it!" << std::endl;
 		system("pause");
 		MarchDay23();
 	}
@@ -776,8 +772,8 @@ void MarchDay22()
 void MarchDay23()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "The twenty third!" << std::endl;
+	std::cout << "\n one step closer to the end of the month!" << std::endl;
 
 	std::cout << "1.Melba Toast Day " << std::endl;
 	std::cout << "2.National Chip and Dip Day " << std::endl;
@@ -786,28 +782,28 @@ void MarchDay23()
 	std::cout << "5.Near Miss Day \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-5 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You get some Melba toast with some soup!" << std::endl;
 		system("pause");
 		MarchDay23();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You get some Chips and dip from the store!" << std::endl;
 		system("pause");
 		MarchDay23();
 	case 3:
-		std::cout << "" << std::endl;
+		std::cout << "You research farmers, and how they help the world!" << std::endl;
 		system("pause");
 		MarchDay24();
 	case 4:
-		std::cout << "" << std::endl;
+		std::cout << "You stop by a petco! You see the puppies they have up for adoption, and decide, once youre out of this loop, you're going to get one!" << std::endl;
 		system("pause");
 		MarchDay23();
 	case 5:
-		std::cout << "" << std::endl;
+		std::cout << "You nearly get hit by a passing bird, That was close!" << std::endl;
 		system("pause");
 		MarchDay23();
 	}
@@ -815,32 +811,27 @@ void MarchDay23()
 void MarchDay24()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "The Twenty-forth" << std::endl;
+	std::cout << "\nYoure doing great!" << std::endl;
 
 	std::cout << "1.National Cheesesteak Day " << std::endl;
 	std::cout << "2.National Chocolate Covered Raisin Day " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
+
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-2 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You grab a philly Cheesesteak from the local butchers shop!" << std::endl;
 		system("pause");
 		MarchDay25();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You get a pack of chockloate raisins...Weird" << std::endl;
 		system("pause");
 		MarchDay24();
 	}
-
-	system("pause");
-	MarchDay25();
 }
 void MarchDay25()
 {
@@ -851,24 +842,22 @@ void MarchDay25()
 	std::cout << "1.Feast of the Annunciation " << std::endl;
 	std::cout << "2.Pecan Day " << std::endl;
 	std::cout << "3.Waffle Day " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-3 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You decide to help out at the nearby homeless shelter, Its a feast, but not for everyone out there." << std::endl;
 		system("pause");
 		MarchDay25();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You grab a slice of pecan pie after going out!" << std::endl;
 		system("pause");
 		MarchDay25();
 	case 3:
-		std::cout << "" << std::endl;
+		std::cout << "You grab waffles for breakfast, its a good morning!" << std::endl;
 		system("pause");
 		MarchDay26();
 	}
@@ -876,30 +865,29 @@ void MarchDay25()
 void MarchDay26()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "Twenty-six days in..." << std::endl;
+	std::cout << "\nWhat is todays Holiday of choice?" << std::endl;
 
 	std::cout << "1.Live Long and Prosper Day " << std::endl;
 	std::cout << "2.Make Up Your Own Holiday Day " << std::endl;
 	std::cout << "3.National Spinach Day " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
+	
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-3 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You watch the Star Trek Movies, They bring back some good memories!" << std::endl;
 		system("pause");
 		MarchDay27();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You decide to name a holiday after your mother! A holiday all about family, and baking!" << std::endl;
 		system("pause");
 		MarchDay26();
 	case 3:
-		std::cout << "" << std::endl;
+		std::cout << "You put spinach on your pizza! It was a good addition to the day" << std::endl;
 		system("pause");
 		MarchDay26();
 	}
@@ -911,18 +899,14 @@ void MarchDay27()
 	std::cout << "\n" << std::endl;
 
 	std::cout << "1.National Joe Day " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-1 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You decide to call up you'r friend, Joe! Hes grateful for the call, work has been hard on him." << std::endl;
 		system("pause");
 		MarchDay28();
 	}
@@ -930,26 +914,23 @@ void MarchDay27()
 void MarchDay28()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "You're almost there" << std::endl;
+	std::cout << "\n What's todays holiday?" << std::endl;
 
 	std::cout << "1.Something on a Stick Day " << std::endl;
 	std::cout << "2.Weed Appreciation Day " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-2 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << " You get a corndog for lunch! " << std::endl;
 		system("pause");
 		MarchDay28();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You go to your garden, picking a few weeds before putting them in the Composter!" << std::endl;
 		system("pause");
 		MarchDay29();
 	}
@@ -957,26 +938,24 @@ void MarchDay28()
 void MarchDay29()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "Three days to go! Yoube got this" << std::endl;
+	std::cout << "\n What is todays poison?" << std::endl;
 
 	std::cout << "1.National Mom and Pop Business Owners Day " << std::endl;
 	std::cout << "2.Smoke and Mirrors Day " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
+	
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-2 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You stop by the local candy shop on your way to see your sister!" << std::endl;
 		system("pause");
 		MarchDay29();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You go to a local magicians show, it was a fun time!" << std::endl;
 		system("pause");
 		MarchDay30();
 	}
@@ -984,34 +963,34 @@ void MarchDay29()
 void MarchDay30()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "Two days Left" << std::endl;
+	std::cout << "\n Pick todays Poison" << std::endl;
 
 	std::cout << "1.I am in Control Day " << std::endl;
 	std::cout << "2.National Doctor's Day " << std::endl;
 	std::cout << "3.Take a Walk in the Park Day " << std::endl;
 	std::cout << "4.Turkey Neck Soup Day " << std::endl;
-	std::cout << "5. \n" << std::endl;
+	
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-4 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You tell yourself you're in control of the weird...Loop youre in" << std::endl;
 		system("pause");
 		MarchDay30();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You decide to send a thank-you to your doctor!" << std::endl;
 		system("pause");
 		MarchDay30();
 	case 3:
-		std::cout << "" << std::endl;
+		std::cout << "You go on a walk in the nearby park, It was a nice day today" << std::endl;
 		system("pause");
 		MarchDay31();
 	case 4:
-		std::cout << "" << std::endl;
+		std::cout << "You get an online order of Turky neck soup...It was a strange thing to eat." << std::endl;
 		system("pause");
 		MarchDay30();
 	}
@@ -1019,35 +998,35 @@ void MarchDay30()
 void MarchDay31()
 {
 	int Choice;
-	std::cout << "" << std::endl;
-	std::cout << "\n" << std::endl;
+	std::cout << "Finally, the last morning of March" << std::endl;
+	std::cout << "\n What Holiday are you celebrating today?" << std::endl;
 
 	std::cout << "1.Bunsen Burner Day " << std::endl;
 	std::cout << "2.National Clam on the Half Shell Day " << std::endl;
 	std::cout << "3.National Crayon Day " << std::endl;
 	std::cout << "4.World Backup Day " << std::endl;
-	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
-	std::cout << ": Choose 1- :";
+	std::cout << ": Choose 1-4 :";
 	std::cin >> Choice;
 
 	switch (Choice) {
 	case 1:
-		std::cout << "" << std::endl;
+		std::cout << "You order a Bunsen Burner Online! It could be fun to make somthing with." << std::endl;
 		system("pause");
 		MarchDay31();
 	case 2:
-		std::cout << "" << std::endl;
+		std::cout << "You go to a seafood resturaunt and get some clams!" << std::endl;
 		system("pause");
 		MarchDay31();
 	case 3:
-		std::cout << "" << std::endl;
+		std::cout << "You decide to go to your sisters, and hand out with your nephew today" << std::endl;
 		system("pause");
 		MarchDay31();
 	case 4:
-		std::cout << "" << std::endl;
+		std::cout << "You backup your computer, Hopefully this is your last day this month" << std::endl;
 		system("pause");
+		std::cout << "Congrats! You made it through the month of March!!" << std::endl;
 		system("exit");
 	}
 }
