@@ -306,9 +306,9 @@ void MarchDay8()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.Be Nasty Day " << std::endl;
+	std::cout << "2.International (Working) Women's Day " << std::endl;
+	std::cout << "3.National Proofreading Day " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -348,9 +348,9 @@ void MarchDay9()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.Barbie Day " << std::endl;
+	std::cout << "2.Get Over It Day " << std::endl;
+	std::cout << "3.Panic Day " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -390,9 +390,9 @@ void MarchDay10()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.International Day of Awesomeness " << std::endl;
+	std::cout << "2.International Find a Pay Phone Booth Day " << std::endl;
+	std::cout << "3.Middle Name Pride Day " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -432,9 +432,9 @@ void MarchDay11()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.Johnny Appleseed Day " << std::endl;
+	std::cout << "2.Popcorn Lover's Day " << std::endl;
+	std::cout << "3.Worship of Tools Day  " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -474,8 +474,8 @@ void MarchDay12()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
+	std::cout << "1.Girl Scouts Day " << std::endl;
+	std::cout << "2.Plant a Flower Day " << std::endl;
 	std::cout << "3. " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
@@ -516,11 +516,11 @@ void MarchDay13()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
+	std::cout << "1.Ear Muff Day " << std::endl;
+	std::cout << "2.Genealogy Day " << std::endl;
+	std::cout << "3.International Fanny Pack Day " << std::endl;
+	std::cout << "4. Jewel Day " << std::endl;
+	std::cout << "5.Smart & Sexy Day \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
 	std::cout << ": Choose 1- :";
@@ -558,9 +558,9 @@ void MarchDay14()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.Learn about Butterflies Day " << std::endl;
+	std::cout << "2.National Potato Chip Day " << std::endl;
+	std::cout << "3.National Pi Day " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -600,10 +600,10 @@ void MarchDay15()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
+	std::cout << "1.Buzzards Day " << std::endl;
+	std::cout << "2.Dumbstruck Day " << std::endl;
+	std::cout << "3.Everything You Think is Wrong Day " << std::endl;
+	std::cout << "4.Ides of March " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
@@ -642,10 +642,10 @@ void MarchDay16()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
+	std::cout << "1.Everything You Do is Right Day " << std::endl;
+	std::cout << "2.Freedom of Information Day " << std::endl;
+	std::cout << "3.Giant Panda Bear Day " << std::endl;
+	std::cout << "4.Tea for Two Tuesday  " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
@@ -684,9 +684,9 @@ void MarchDay17()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.Corned Beef and Cabbage Day " << std::endl;
+	std::cout << "2.Submarine Day  " << std::endl;
+	std::cout << "3.Saint Patrick's Day " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -725,10 +725,10 @@ void MarchDay18()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
+	std::cout << "1.Absolutely Incredible Kid Day " << std::endl;
+	std::cout << "2.Awkward Moments Day " << std::endl;
+	std::cout << "3.Goddess of Fertility Day " << std::endl;
+	std::cout << "4.Supreme Sacrifice Day " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
@@ -767,8 +767,8 @@ void MarchDay19()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
+	std::cout << "1.Let's Laugh Day " << std::endl;
+	std::cout << "2.Poultry Day " << std::endl;
 	std::cout << "3. " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
@@ -809,11 +809,11 @@ void MarchDay20()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
+	std::cout << "1.International Sports Car Racing Day " << std::endl;
+	std::cout << "2.International Earth Day " << std::endl;
+	std::cout << "3.International Day of Happiness " << std::endl;
+	std::cout << "4.Extraterrestrial Abductions Day " << std::endl;
+	std::cout << "5.World Sparrow Day   \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
 	std::cout << ": Choose 1- :";
@@ -851,9 +851,9 @@ void MarchDay21()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.Credit Card Reduction Day " << std::endl;
+	std::cout << "2.Fragrance Day " << std::endl;
+	std::cout << "3.World Poetry Day " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -893,8 +893,8 @@ void MarchDay22()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
+	std::cout << "1.As Young As You  Feel Day " << std::endl;
+	std::cout << "2.National Goof Off Day " << std::endl;
 	std::cout << "3. " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
@@ -935,11 +935,11 @@ void MarchDay23()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
-	std::cout << "5. \n" << std::endl;
+	std::cout << "1.Melba Toast Day " << std::endl;
+	std::cout << "2.National Chip and Dip Day " << std::endl;
+	std::cout << "3.National / World Agriculture Day " << std::endl;
+	std::cout << "4.National Puppy Day " << std::endl;
+	std::cout << "5.Near Miss Day \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
 	std::cout << ": Choose 1- :";
@@ -977,8 +977,8 @@ void MarchDay24()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
+	std::cout << "1.National Cheesesteak Day " << std::endl;
+	std::cout << "2.National Chocolate Covered Raisin Day " << std::endl;
 	std::cout << "3. " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
@@ -1019,9 +1019,9 @@ void MarchDay25()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.Feast of the Annunciation " << std::endl;
+	std::cout << "2.Pecan Day " << std::endl;
+	std::cout << "3.Waffle Day " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -1061,9 +1061,9 @@ void MarchDay26()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
+	std::cout << "1.Live Long and Prosper Day " << std::endl;
+	std::cout << "2.Make Up Your Own Holiday Day " << std::endl;
+	std::cout << "3.National Spinach Day " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
@@ -1103,7 +1103,7 @@ void MarchDay27()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
+	std::cout << "1.National Joe Day " << std::endl;
 	std::cout << "2. " << std::endl;
 	std::cout << "3. " << std::endl;
 	std::cout << "4. " << std::endl;
@@ -1145,8 +1145,8 @@ void MarchDay28()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
+	std::cout << "1.Something on a Stick Day " << std::endl;
+	std::cout << "2.Weed Appreciation Day " << std::endl;
 	std::cout << "3. " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
@@ -1187,8 +1187,8 @@ void MarchDay29()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
+	std::cout << "1.National Mom and Pop Business Owners Day " << std::endl;
+	std::cout << "2.Smoke and Mirrors Day " << std::endl;
 	std::cout << "3. " << std::endl;
 	std::cout << "4. " << std::endl;
 	std::cout << "5. \n" << std::endl;
@@ -1229,10 +1229,10 @@ void MarchDay30()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
+	std::cout << "1.I am in Control Day " << std::endl;
+	std::cout << "2.National Doctor's Day " << std::endl;
+	std::cout << "3.Take a Walk in the Park Day " << std::endl;
+	std::cout << "4.Turkey Neck Soup Day " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
@@ -1271,10 +1271,10 @@ void MarchDay31()
 	std::cout << "" << std::endl;
 	std::cout << "\n" << std::endl;
 
-	std::cout << "1. " << std::endl;
-	std::cout << "2. " << std::endl;
-	std::cout << "3. " << std::endl;
-	std::cout << "4. " << std::endl;
+	std::cout << "1.Bunsen Burner Day " << std::endl;
+	std::cout << "2.National Clam on the Half Shell Day " << std::endl;
+	std::cout << "3.National Crayon Day " << std::endl;
+	std::cout << "4.World Backup Day " << std::endl;
 	std::cout << "5. \n" << std::endl;
 
 	std::cout << "Which would you like to choose?" << std::endl;
@@ -1304,8 +1304,6 @@ void MarchDay31()
 		MarchDay2();
 	}
 
-
 	system("pause");
 	system("exit");
-
 }
