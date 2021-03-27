@@ -34,8 +34,6 @@ void MarchDay29();
 void MarchDay30();
 void MarchDay31();
 
-
-
 int main()
 {
 	std::cout << "*** Welcome to a new adventure! Today, we will be leading you " << std::endl;
